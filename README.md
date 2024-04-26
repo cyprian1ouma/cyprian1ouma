@@ -2,8 +2,6 @@
 ![logo](https://github.com/cyprian1ouma/cyprian1ouma/blob/main/cyprian%20image.jpg)
 <h1 align="center">Hi 👋, I'm CYPRIAN MITHEME OUMA</h1>
 <h3 align="center">A passionate Software Engineer</h3>
-<img align ="right" width ="400px" alt ="codding" scr="https://github.com/cyprian1ouma/cyprian1ouma/blob/main/github.png">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyprian1ouma&label=Profile%20views&color=0e75b6&style=flat" alt="cyprian1ouma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyprian1ouma" alt="cyprian1ouma" /></a> </p>
