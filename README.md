@@ -1,3 +1,5 @@
+
+![logo](https://github.com/cyprian1ouma/cyprian1ouma/blob/main/cyprian%20image.jpg)
 <h1 align="center">Hi 👋, I'm CYPRIAN MITHEME OUMA</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
