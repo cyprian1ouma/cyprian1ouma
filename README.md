@@ -2,8 +2,7 @@
 ![logo](https://github.com/cyprian1ouma/cyprian1ouma/blob/main/cyprian%20image.jpg)
 <h1 align="center">Hi 👋, I'm CYPRIAN MITHEME OUMA</h1>
 <h3 align="center">A passionate Software Engineer</h3>
-
-<img align ="right" width ="400px" alt ="codding" scr ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1kTxAl_hisEDtI7gM9_KKt&ust=1714232240623000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjjt_Cb4IUDFQAAAAAdAAAAABAE">
+<img align ="right" width ="400px" alt ="codding" scr="https://github.com/cyprian1ouma/cyprian1ouma/blob/main/github.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyprian1ouma&label=Profile%20views&color=0e75b6&style=flat" alt="cyprian1ouma" /> </p>
 
